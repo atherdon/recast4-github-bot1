@@ -56,7 +56,7 @@ using yarn `yarn start`
 > **Note:** Next steps, only if you have connected your bot to channels, using the Bot Connector tool
 
 - download [ngrok](https://ngrok.com/)
-- launch it: `./ngrok http 5000`
+- launch it(WINdows): `ngrok.exe http 5000` 
 - copy the url ngrok gave and paste it in the [Recast.AI](https://recast.ai) interface: Go to your bot page, click on the **RUN** tab and edit your `current bot webhook`
 - Chat with your bot on the channels you've configured ;)
 
